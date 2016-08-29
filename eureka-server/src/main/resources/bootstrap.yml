@@ -7,7 +7,7 @@ eureka:
 
 spring:
   application:
-    name: client1
+    name: server
 
 server:
   port: 0 # Use a random unassigned HTTP port. To scan for a free port (using OS natives to prevent clashes) use server.port=0
